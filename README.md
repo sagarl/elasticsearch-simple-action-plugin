@@ -13,6 +13,6 @@ The simple plugin is indeed very simple. It makes reuse of the standard search a
 
 - the result of the action (the search response of the "match all" query) is logged
 
-Reference : https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!topic/elasticsearch/VaiLBJkz-20
-
 http://code972.com/blog/2014/05/72-the-ultimate-guide-for-elasticsearch-plugins-video-slides
+
+Reference : https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!topic/elasticsearch/VaiLBJkz-20
